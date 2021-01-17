@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CodewarsApplication {
 
 	public static void main(String[] args) {
-
 		EvenOrOdd.even_or_odd(2);
+
 	}
 
 }
