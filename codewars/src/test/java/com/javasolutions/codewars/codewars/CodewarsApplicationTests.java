@@ -32,7 +32,13 @@ class CodewarsApplicationTests {
 		assertFalse(exesAndOhs.getXO("zzoo"), "Must be false. Only two ohs and noe exes.");
 		assertFalse(exesAndOhs.getXO("Xxxxxxxxertr34"), "Must be false.");
 		assertTrue(exesAndOhs.getXO("ooxXm"),"Must be true. Two ohs and two exes");
+	}
 
+	@Test
+	public void shouldReverseAnString() {
+		assertEquals("dlrow", reversedString.reverseString("world"), "The string must be dlrow.");
+		assertEquals("AsAc", reversedString.reverseString("cAsA"), "Must consider case sensitive.");
+		assertEquals("zevahC nauJ", reversedString.reverseString("Juan Chavez"), "Must consider spaces between words.");
 	}
 
 }
