@@ -7,7 +7,7 @@ public class CodewarsApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println(WhoLikesIt.likes());
+		System.out.println(VinChecker.checkVin("AIGRSXZLXXZDLDBDJ"));
 
 	}
 
