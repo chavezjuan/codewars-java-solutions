@@ -7,8 +7,7 @@ public class CodewarsApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println(VinChecker.checkVin("AIGRSXZLXXZDLDBDJ"));
+		System.out.println(DisemvowelTrolls.disemvowel("No offense but,\\nYour writing is among the worst I've ever read"));
 
 	}
-
 }
