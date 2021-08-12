@@ -2,7 +2,7 @@ package com.javasolutions.codewars.codewars;
 
 import java.util.Arrays;
 
-public class reversedString {
+public class ReversedString {
     public static String reverseString(String str) {
         var onlyLetters = Arrays.stream(str.split("")).toArray(String[]::new);
         String reversedWord = "";

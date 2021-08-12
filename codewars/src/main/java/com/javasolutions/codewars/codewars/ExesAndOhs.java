@@ -2,7 +2,7 @@ package com.javasolutions.codewars.codewars;
 
 import java.util.Arrays;
 
-public class exesAndOhs {
+public class ExesAndOhs {
     public static boolean getXO (String str) {
         var arrLetters = Arrays.stream(str.split("")).toArray(String[]::new);
         var countX = 0;

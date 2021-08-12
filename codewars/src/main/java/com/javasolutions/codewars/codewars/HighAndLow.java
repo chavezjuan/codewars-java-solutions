@@ -5,7 +5,7 @@ import org.yaml.snakeyaml.util.ArrayUtils;
 import java.util.Arrays;
 
 
-public class highAndLow {
+public class HighAndLow {
     public static String highAndLowFinder(String numbers) {
         var arrNumbers = Arrays.stream(numbers.split(" ")).mapToInt(Integer::parseInt).toArray();
         int max, min;
