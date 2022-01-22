@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb515086-426e-4892-b345-056d5fe05475" name="Default Changelist" comment="" />
+    <list default="true" id="fbd3aaf1-c6c6-46b2-95dc-4e959df642d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codewars-java-solutions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/CodewarsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/DisemvowelTrolls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/EvenOrOdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/ExesAndOhs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/FilterList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/HighAndLow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/NumberPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/NumbersDivisors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/ReversedString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/TrafficLightsOneCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/VinChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/WellOfIdeas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/java/com/javasolutions/codewars/codewars/WhoLikesIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/test/java/com/javasolutions/codewars/codewars/CodewarsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/test/java/com/javasolutions/codewars/codewars/FilterListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codewars/src/test/java/com/javasolutions/codewars/codewars/NumberPrimeTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +45,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nAl9vWBLInEgZp36NGKozxYt4I" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.4/apache-maven/src/bin" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="242TEO4ykyoLD2c5XUFZoJRW4su" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,15 +64,42 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FilterListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javasolutions.codewars.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javasolutions.codewars.codewars" />
+      <option name="MAIN_CLASS_NAME" value="com.javasolutions.codewars.codewars.FilterListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FilterListTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb515086-426e-4892-b345-056d5fe05475" name="Default Changelist" comment="" />
-      <created>1610840630076</created>
+      <changelist id="fbd3aaf1-c6c6-46b2-95dc-4e959df642d7" name="Changes" comment="" />
+      <created>1642827577017</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1610840630076</updated>
+      <updated>1642827577017</updated>
     </task>
     <servers />
   </component>
