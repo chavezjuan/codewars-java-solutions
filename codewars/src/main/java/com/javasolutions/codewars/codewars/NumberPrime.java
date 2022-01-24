@@ -6,12 +6,14 @@ public class NumberPrime {
         if (num <= 1) {
             return false;
         } else {
-            int[] primeDividers = {2, 3, 5, 7, 9, 11, 13, 17, 19, 23, 29, 31};
 
-            for (int primeDivider : primeDividers) {
-                if (num >= primeDivider) {
-                    if (num % primeDivider == 0 && !((num / primeDivider) < primeDivider) && num != primeDivider)
-                        return false;
+            int divider = 2;
+
+            while (divider * divider <= num) {
+                if (num % divider == 0) {
+                    return false;
+                } else {
+                    divider++;
                 }
             }
 
