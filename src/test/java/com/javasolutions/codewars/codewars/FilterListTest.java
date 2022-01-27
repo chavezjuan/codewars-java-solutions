@@ -14,9 +14,16 @@ public class FilterListTest {
     @Test
     @DisplayName("Should remove strings from list with success")
     public void should_removeStrings_WithSuccess(){        
-        assertEquals(Arrays.asList(1,2), FilterList.filterList(Arrays.asList(1, 2, "a", "b")), "All strings should be removed");
-        assertEquals(Arrays.asList(1,2,0,15), FilterList.filterList(Arrays.asList(1, 2, "a", "b", 0, 15)), "All strings should be removed");
-        assertEquals(Arrays.asList(1, 2, 231), FilterList.filterList(Arrays.asList(1, 2, "a", "b", "aasf", "1", "123", 231)), "All strings should be removed");
+        assertEquals(
+                Arrays.asList(1,2),
+                FilterList.filterList(Arrays.asList(1, 2, "a", "b")),
+                "All strings should be removed");
+        assertEquals(Arrays.asList(1,2,0,15), FilterList.filterList(
+                Arrays.asList(1, 2, "a", "b", 0, 15)),
+                "All strings should be removed");
+        assertEquals(Arrays.asList(1, 2, 231), FilterList.filterList(
+                Arrays.asList(1, 2, "a", "b", "aasf", "1", "123", 231)),
+                "All strings should be removed");
     }
 
     @Test
